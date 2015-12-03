@@ -4,7 +4,8 @@ html {
   font-size: 1em; }
 
 .container-fluid {
-  padding: 5px; }
+  padding: 5px;
+  overflow: hidden; }
 
 /*===========TOP RIBBON=============*/
 .logo {
@@ -23,6 +24,7 @@ html {
 /*=============TOP STORY==============*/
 .top-story-box {
   overflow: hidden;
-  border: thin; }
+  border: thin;
+  clear: float; }
 
 /*# sourceMappingURL=style.css.map */

@@ -6,6 +6,7 @@ html {
 
 .container-fluid {
 	padding: 5px;
+	overflow: hidden;
 }
 
 /*===========TOP RIBBON=============*/
@@ -37,6 +38,7 @@ html {
 .top-story-box {
 	overflow: hidden;
 	border: thin;
+	clear: float;
 
 }
 

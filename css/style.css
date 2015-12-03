@@ -1,3 +1,28 @@
+/*==========DOC WIDE============*/
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4; }
 
+.container-fluid {
+  padding: 5px; }
+
+/*===========TOP RIBBON=============*/
+.logo {
+  float: left;
+  width: 20%; }
+
+.title-banner {
+  float: left;
+  width: 45%;
+  overflow: hidden; }
+
+.top-nav {
+  overflow: hidden;
+  float: right; }
+
+/*=============TOP STORY==============*/
+.top-story-box {
+  float: left; }
 
 /*# sourceMappingURL=style.css.map */

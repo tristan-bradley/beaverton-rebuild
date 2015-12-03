@@ -2,7 +2,6 @@
 html {
     color: #222;
     font-size: 1em;
-    line-height: 1.4;
 }
 
 .container-fluid {
@@ -11,9 +10,14 @@ html {
 
 /*===========TOP RIBBON=============*/
 
+.top-banner-container {
+
+}
+
 .logo {
 	float: left;
-	width: 20%;
+	vertical-align: middle;
+
 }
 
 .title-banner {
@@ -31,7 +35,8 @@ html {
 /*=============TOP STORY==============*/
 
 .top-story-box {
-	float: left;
+	overflow: hidden;
+	border: thin;
 
 }
 

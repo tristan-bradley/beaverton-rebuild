@@ -1,8 +1,7 @@
 /*==========DOC WIDE============*/
 html {
   color: #222;
-  font-size: 1em;
-  line-height: 1.4; }
+  font-size: 1em; }
 
 .container-fluid {
   padding: 5px; }
@@ -10,7 +9,7 @@ html {
 /*===========TOP RIBBON=============*/
 .logo {
   float: left;
-  width: 20%; }
+  vertical-align: middle; }
 
 .title-banner {
   float: left;
@@ -23,6 +22,7 @@ html {
 
 /*=============TOP STORY==============*/
 .top-story-box {
-  float: left; }
+  overflow: hidden;
+  border: thin; }
 
 /*# sourceMappingURL=style.css.map */
